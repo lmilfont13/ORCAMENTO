@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Orçamento de Serviços",
+  "description": "Um aplicativo para criar, editar e baixar orçamentos de serviços profissionais em formato PDF. Pré-configurado com um exemplo de serviço de recepcionistas.",
+  "requestFramePermissions": []
+}
